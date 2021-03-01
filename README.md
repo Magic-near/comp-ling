@@ -1,2 +1,7 @@
 # comp-ling
-Assignments for the course "Computational linguistics" @ ITMO University 
+# data-viz
+<h2>Решения практических работ для курса "Компьютерная лингвистика".<h2/>
+
+Белова Алёна Сергеевна
+
+Группа: K3243
